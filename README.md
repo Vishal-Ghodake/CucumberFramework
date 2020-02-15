@@ -1,9 +1,10 @@
 # CucumberFramework
 
-Framework Details:
+# Framework Details:
 Framework is written in Page Object Model where starting point will be Test runner file from where you will trigger tests written in Cucumber feature files.
 
-How to run the project ???
+# How to run the project ???
+
 Clone this project
 Maven will download all the dependencies.
 Run tests using following methods:
