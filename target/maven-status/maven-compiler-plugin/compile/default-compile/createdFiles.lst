@@ -1,0 +1,15 @@
+dataProvider\JsonDataReader.class
+pageObjects\ProductListingPage.class
+managers\WebDriverManager$1.class
+pageObjects\HomePage.class
+enums\EnvironmentType.class
+pageObjects\CheckoutPage.class
+managers\FileReaderManager.class
+testDataTypes\Customer.class
+dataProvider\ConfigFileReader.class
+testDataTypes\Customer$PhoneNumber.class
+managers\WebDriverManager.class
+enums\DriverType.class
+pageObjects\CartPage.class
+managers\PageObjectManager.class
+testDataTypes\Customer$Address.class

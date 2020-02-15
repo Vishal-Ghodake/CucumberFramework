@@ -1,0 +1,8 @@
+seleniumTests\E2E_Test.class
+stepDefinations\CartPageSteps.class
+cucumber\TestContext.class
+stepDefinations\CheckoutPageSteps.class
+stepDefinations\ProductPageSteps.class
+stepDefinations\HomePageSteps.class
+runners\TestRunner.class
+stepDefinations\Hooks.class
